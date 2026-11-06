@@ -1,0 +1,5 @@
+/home/ubuntu/cpp-generator/workspace/elf-header-inspector/build/CMakeFiles/elf_header_inspector.dir
+/home/ubuntu/cpp-generator/workspace/elf-header-inspector/build/CMakeFiles/unit_tests.dir
+/home/ubuntu/cpp-generator/workspace/elf-header-inspector/build/CMakeFiles/test.dir
+/home/ubuntu/cpp-generator/workspace/elf-header-inspector/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp-generator/workspace/elf-header-inspector/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+1	290	1793982902875484209	CMakeFiles/elf_header_inspector.dir/src/main.cpp.o	7752f0c07fd1ade2
+1	291	1793982902875484209	CMakeFiles/unit_tests.dir/tests/test.cpp.o	41f28affb4742f4c
+1	390	1793982902974487779	CMakeFiles/elf_header_inspector.dir/src/elf_parser.cpp.o	94cf38980532f46d
+1	390	1793982902974487779	CMakeFiles/unit_tests.dir/src/elf_parser.cpp.o	62f868034256ba9e
+390	434	1793982903018889455	elf_header_inspector	cd9b59d39664aba1
+390	434	1793982903018902825	unit_tests	5d7db5d1f798b848
